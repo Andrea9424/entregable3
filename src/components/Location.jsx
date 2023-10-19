@@ -59,4 +59,4 @@ const Location = ({ location, setLocation }) => {
 };
 
 export default Location;
-lg;
+
